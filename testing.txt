@@ -1,0 +1,1 @@
+https://api.telegram.org/bot7550715956:AAFFyQOYwZpISir30tJwBN4hklKogx3RT8M/getUpdates
